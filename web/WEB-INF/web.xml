@@ -5,8 +5,6 @@
         <servlet-class>Servlet.NewServlet1</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>NewServlet1</servlet-name>
-        <url-pattern>/NewServlet1</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
