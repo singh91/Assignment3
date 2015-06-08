@@ -29,7 +29,7 @@ public class DBConnect {
             System.err.println(ex.getMessage());
         }
         
-        return conn;
+        
     }
     
 }
